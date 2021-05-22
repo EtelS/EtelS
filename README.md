@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>Hola! Soy <a href="https://etels.github.io/">Etel 🐱 </a>
-  <br> Desarolladora web
+  <br> Desarrolladora web
   <br>
   <img src="https://image.freepik.com/vector-gratis/gato-enojado-trabajando-ilustracion-ordenador-portatil_138676-305.jpg" width="350" />
   <br>
